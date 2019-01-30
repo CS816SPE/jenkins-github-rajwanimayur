@@ -3,4 +3,5 @@
 - Connect the job to your GitHub Assignment repository using Git SCM Poll for every 5 seconds
 - Whenever you commit to your repository, the Jenkins job should run automatically.
 
-- Submitted by: MT2018060 Mayur Rajwani
+
+**Submitted by: MT2018060 Mayur Rajwani**
